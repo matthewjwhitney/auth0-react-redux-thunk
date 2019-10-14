@@ -1,0 +1,18 @@
+.FlexRow {
+  display: flex;
+  flex-direction: row;
+  flex-grow: 1;
+}
+
+.FlexColumn {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.FlexRowMain {
+  display: flex;
+  flex-direction: row;
+  margin-top: 56px;
+  margin-left: 100px;
+}
